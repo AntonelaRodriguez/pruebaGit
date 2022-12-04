@@ -1,4 +1,3 @@
-function hello (){
-    alert("hello");
-};
-
+function suma (){
+    alert("suma")
+}
