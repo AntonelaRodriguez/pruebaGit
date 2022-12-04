@@ -1,3 +1,3 @@
-function suma (){
-    alert("suma")
+function hola(){
+    alert('Hola')
 }
