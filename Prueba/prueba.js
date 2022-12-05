@@ -12,4 +12,9 @@ function contar(){
 
 function hello(){
     alert("Hello World!");
+  }
+    
+function dividir(){
+    return2/2;
+
 };
