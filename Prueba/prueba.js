@@ -3,5 +3,5 @@ function suma (){
 }
 
 function  multi(){
-	return 2*4;
+	alert("nada")
 }
