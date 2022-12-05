@@ -3,4 +3,6 @@ function suma (){
 }
 
 
-alert("nuevo commit");
+function contar(){
+    return 1 + 1
+};
